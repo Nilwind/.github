@@ -1,6 +1,6 @@
 # 🌬️ **Nilwind**
 
-**Where a cheeky software grub pretends to save the world… and actually does something about it.**
+**Where a cheeky software guy pretends to save the world… and actually does something about it.**
 
 [![GitHub Org](https://img.shields.io/badge/Org-Nilwind-00b8a9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilwind)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Buckle%20Up!-00b8a9?style=for-the-badge)](https://github.com/nilwind/buckl)
