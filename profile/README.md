@@ -22,7 +22,7 @@ No sermons. No corporate checkboxes. Just ridiculously solid engineering that le
 
 ### 👋 Who We Are
 
-Hi, I’m the **software grub** who started this whole thing.  
+Hi, I’m the **software guy** who started this whole thing.  
 Pretending to save the world (like everyone else, ha).  
 
 I built **Buckl** because I got tired of AI safety being either “pray really hard” or “pay a compliance team.” So I made something that actually works.
@@ -77,4 +77,4 @@ We love chaos (the good kind). Here’s how you can join the fun:
 
 Drop a coin if you want to sponsor **immaturity fighting form** 💰
 
-*Made with ❤️ (and a healthy dose of sarcasm) by one grub + the best community on the internet.*
+*Made with ❤️ (and a healthy dose of sarcasm) by one guy + the best community on the internet.*
